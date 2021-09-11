@@ -1,8 +1,8 @@
-# timetable-generator
-A timetable generator for Delhi Technological University made on BootStrap with JavaScript.
-
+# Timetable-Generator
+A timetable generator for Delhi Technological University.
 To generate the timetable you have to fill the Course Code. Then choose the slots of the course. Atmost four slots can be filled for a course at a time which is pratical as well. Then, you can also fill the venue of the class. This is an additional feature of this timetable generator.
 
 The easy steps to follow are:
 	1. Clone the repository.
-	2. Run on your browser/localhost.
+	2. Run on your browser/localhost http://127.0.0.1:5501/index.html.
+Here Are some Screenshots
